@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "506520195135",
+    "firebase_url": "https://kirti-356808-default-rtdb.firebaseio.com",
+    "project_id": "kirti-356808",
+    "storage_bucket": "kirti-356808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506520195135:android:f412471bbc3c9f4272688a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506520195135-d7an68hqsgcgi0nf4r3gfahvq5smr442.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBocUXir80uXACs4KilHjh2rzq7mf9bN7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506520195135-d7an68hqsgcgi0nf4r3gfahvq5smr442.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
